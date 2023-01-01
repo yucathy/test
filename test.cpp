@@ -7,6 +7,8 @@ struct books{
 
 	int book_id;
 
+	int book_amount;
+
 };
 
 int main(){
